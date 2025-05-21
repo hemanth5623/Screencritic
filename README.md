@@ -1,1 +1,1 @@
-Frontend repo https://github.com/Pragna1P/screenCrititcUI
+Frontend repo https://github.com/hemanth5623/ScreenCriticUI
